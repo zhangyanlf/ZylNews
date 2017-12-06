@@ -4,7 +4,7 @@
 #1.创建项目
 
 #2. 运行程序
-$ git clone https://github.com/zhangyanlf/House.git\n
+$ git clone https://github.com/zhangyanlf/ZylNews.git
 
 $ cd react-native-project\n
 
